@@ -1,1 +1,1 @@
-Special Topics — Python | notes and exercises from the university course. Learning Python through coding exercises and experimentation. Topics: Fundamentals, Operators, Conditionals, Loops, and Functions.
+Special Topics: Python | This repository contains code and notes from the Special Topics course at university.
